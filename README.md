@@ -1,13 +1,13 @@
 # Lenguaje de Programación 2 - Taller 3
 
-![commits](https://badgen.net/github/commits/UR-CC/lp2-taller3?icon=github) 
-![last_commit](https://img.shields.io/github/last-commit/UR-CC/lp2-taller3)
+![commits](https://badgen.net/github/commits/Bluewizard16/lp2-taller3?icon=github) 
+![last_commit](https://img.shields.io/github/last-commit/Bluewizard16/lp2-taller3)
 
 - ver [badgen](https://badgen.net/) o [shields](https://shields.io/) para otros tipos de _badges_
 
 ## Autores
 
-- [@estudiante](https://www.github.com/estudiante)
+- [@William Angulo](https://github.com/Bluewizard16)
 
 ## Descripción del Proyecto
 
@@ -21,14 +21,14 @@ Morbi quam lectus, tempus sit amet mi non, facilisis dignissim erat. Aenean tort
 
 1. Clonar el proyecto
 ```bash
-git clone https://github.com/UR-CC/lp2-taller3.git
+git clone https://github.com/Bluewizard16/lp2-taller3.git
 ```
 
 2. Crear y activar entorno virtual
 ```bash
 cd lp2-taller3
-python -m venv venv
-venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 3. Instalar librerías y dependencias
@@ -43,6 +43,6 @@ Maecenas sed lorem at arcu varius mollis. Sed eleifend nulla ut blandit interdum
 1. Ejecutar el proyecto
 ```bash
 cd lp2-taller3
-python app.py
+python3 main.py
 ```
 
